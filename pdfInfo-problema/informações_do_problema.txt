@@ -1,0 +1,82 @@
+Melhorar o acesso à educação:
+informações sobre a disponibilidade de vaga
+◘ localização da escola
+◘ nome da escola
+◘ nivel da escola/ 1º ao 9º ou ensino médio
+◘ series e turnos
+◘ matriculas disponíveis
+◘ mais informações
+◘ mais informações
+◘ mais informações
+
+tornar o processo de matrícula mais eficiente:
+◘ centralização das informações, panorama claro das opções disponíveis, menos burocracia envolvida no processo de matrícula,
+◘ matriculas disponíveis
+◘ mais informações
+◘ mais informações
+◘ mais informações
+
+tornar o processo de matrícula mais eficiente:
+◘ direcionamento mais objetivo referente as informações e passo a passo
+◘ matriculas disponíveis
+◘ mais informações
+◘ mais informações
+◘ mais informações
+Promover maior eficiência na ocupação das vagas:
+◘ transparência na divulgação das vagas disponíveis
+◘ conexão entre a educação básica e os cursos técnicos
+◘ matriculas disponíveis
+◘ mais informações
+◘ mais informações
+◘ mais informações
+
+
+Detalhamento:
+Encontrar vagas em escolas estaduais no Espírito Santo é um processo repleto de desafios.
+As informações sobre a disponibilidade de vagas estão dispersas entre diferentes plataformas e não são sempre atualizadas,
+o que torna a busca confusa e demorada para pais e alunos. A falta de centralização resulta em uma experiência frustrante e ineficiente,
+onde é difícil obter um panorama claro das opções disponíveis. Adicionalmente,
+muitos pais enfrentam dificuldades com a burocracia envolvida no processo de matrícula,
+que pode ser lento e exigir múltiplos passos que não são claramente comunicados. Isso pode levar a atrasos, frustração e,
+em alguns casos, à perda de vagas.
+Outro problema é a falta de transparência na divulgação das vagas disponíveis, resultando em muitas escolas tendo vagas não preenchidas simplesmente porque não são bem anunciadas.
+Além disso, a falta de informações consolidadas sobre as exigências e requisitos das escolas contribui para a confusão e o estresse adicional durante o processo de matrícula.
+Também há um problema com a falta de conexão entre a educação básica e os cursos técnicos, como os oferecidos pelo SENAI. Isso impede que alunos descubram e
+aproveitem oportunidades de formação profissional desde cedo.
+
+
+Escola:
+(ES) CEP Aureo Vianna Mameri - SENAI Cachoeiro
+
+
+Restrições (O que a solução não pode ter):
+Respeitar a LGPD (Lei Geral de Proteção de Dados).
+A solução não deve ir de encontro às boas práticas de segurança da informação.
+
+
+Estado:
+ES
+
+
+Área de atuação:
+Tecnologia da Informação
+
+
+Empresa:
+SENAI - CACHOEIRO-ES
+
+
+Data de cadastro:
+07/08/2024 15:04
+
+
+Data de início da vigência:
+07/08/2024
+
+
+Vigência:
+07/08/2025 - (12 mes(es))
+
+
+Ativo:
+Sim
